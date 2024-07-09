@@ -1,2 +1,2 @@
-# simplyfarming_support
-Please contact us for support at kjklusmann@gmail.com
+# Support can be found here
+Please contact us at kjklusmann@gmail.com
